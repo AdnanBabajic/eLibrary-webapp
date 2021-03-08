@@ -1,0 +1,15 @@
+.popup{
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    width: auto; /* Full width */
+    top: 50%;
+    right: 50%;
+    height: auto; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    background-color: #fefefe;
+    margin: auto; /* 15% from the top and centered */
+    padding: 1%;
+    border: 1px solid #888;
+}

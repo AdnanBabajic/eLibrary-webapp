@@ -1,0 +1,30 @@
+element{
+  --primary: #5ee5bb;
+  --secondary: white;
+}
+
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+  background: var(--primary);
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  font-weight: 600;
+  height: 100%;
+}
+.body {
+  position: relative;
+  margin: 0 10%;
+  background: var(--secondary);
+  border: 1px solid black;
+  border-radius: 30px;
+  -moz-border-radius: 30px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

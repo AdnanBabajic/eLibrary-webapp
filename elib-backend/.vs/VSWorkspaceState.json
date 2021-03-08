@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\org",
+    "\\src\\main\\java\\org\\elib",
+    "\\src\\main\\java\\org\\elib\\repository",
+    "\\src\\main\\java\\org\\elib\\services",
+    "\\src\\main\\java\\org\\elib\\services\\impl"
+  ],
+  "SelectedNode": "\\src\\main\\java\\org\\elib\\services\\impl\\ELibServiceImpl.java",
+  "PreviewInSolutionExplorer": false
+}
